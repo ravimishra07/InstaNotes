@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "147942193056",
+    "project_id": "instanotes-160c6",
+    "storage_bucket": "instanotes-160c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147942193056:android:658f27f54f4866970e16c5",
+        "android_client_info": {
+          "package_name": "com.example.instanotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147942193056-7fccd0hl7rucf2adej3lsm3tcd903sk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2XChRMUZ0yFoPK-CDkJGRVLUYysG5YXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147942193056-7fccd0hl7rucf2adej3lsm3tcd903sk3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147942193056:android:08a90e27d911317e0e16c5",
+        "android_client_info": {
+          "package_name": "com.tanvi.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147942193056-fqi9fonp4bo8062pgfedtgcco9j4rq8d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tanvi.myapplication",
+            "certificate_hash": "17459ccfb9c3fc2bc301735ad9c88268cc91cc97"
+          }
+        },
+        {
+          "client_id": "147942193056-7fccd0hl7rucf2adej3lsm3tcd903sk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2XChRMUZ0yFoPK-CDkJGRVLUYysG5YXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147942193056-7fccd0hl7rucf2adej3lsm3tcd903sk3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
